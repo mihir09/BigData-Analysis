@@ -1,0 +1,9 @@
+Which scrapper have we used to scrape Fifa worldcup tweets?
+SNScrape
+Twitter API
+TweePy
+
+Which model performed better?
+Logistic Regression
+Naive Bayes
+Random Forest
